@@ -1,0 +1,8 @@
+a = 2
+2
+b = 4
+4
+c = a*b
+8
+alert("El resultado de la operación es " + c)
+undefined
