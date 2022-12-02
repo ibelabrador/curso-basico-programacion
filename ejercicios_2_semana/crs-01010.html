@@ -11,16 +11,16 @@
             var cdiap = 170;
             var cdisponiblep = 30000;
             var dcomidap = cdisponiblep/cdiap;
-            document.write("Los " + cdisponiblep + " gramos de comida alcanzan para " + dcomidap + " días" );
-            parseInt(dcomidap);
-        </script>
-        <br>
-        <script>
+            dcomidap = Math.round(dcomidap);
+            document.write("Los " + cdisponiblep + " gramos de comida alcanzan para " + dcomidap + " días<br>" );
+            
+        
             var cdiag = 390;
             var cdisponibleg = 36000;
             var dcomidag = cdisponibleg/cdiag;
+            dcomidag = Math.round(dcomidag);
             document.write("Los " + cdisponibleg + " gramos de comida para perros grandes alcanza para " + dcomidag + " días");
         </script>
-        </br>
+        
     </body>
 </html>
