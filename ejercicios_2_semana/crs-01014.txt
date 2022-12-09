@@ -1,11 +1,11 @@
 Responder las siguiente preguntas:
 
-¿Qué es una función? R/Instrucciones para ejecutar una acción
+¿Qué es una función? R/Operación de Instrucciones para ejecutar una acción
 ¿cómo se llama a una función? R/para llamar una función se pone el nombre de la misma y el parámetro entre paréntesis y al finalizar punto y coma. Nombre funcion(parametros);
-¿qué es lo que se le pasa a una función? 
+¿qué es lo que se le pasa a una función? R/ Se le pasan parámetros.
 ¿Cómo se representa un string? R/ Se representa utilizando comillas dobles. ejemplo: "el loquero"
 ¿Cómo se declara una variable? R/Se debe poner el nombre de la variable, el operador igual = y después el valor que se le asignará a la variable. ejm : var x = 564
-En la declaración de una variable ¿qué lado del operador de asignación se ejecuta primero?
+En la declaración de una variable ¿qué lado del operador de asignación se ejecuta primero? R/ se ejecuta primero el lado derecho al lado del igual
 Si se suma un número y un string ¿qué tipo de variable resulta? R/ Da resultado una variable undefined, ya que no es posible realizar una suma entre un número y un objeto
 ¿Qué es una concatenación y cómo se puede hacer? R/ Es cando se añade una cadena al final de otra utilizando el operador +
 

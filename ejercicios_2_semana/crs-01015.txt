@@ -1,0 +1,8 @@
+Responder las siguientes preguntas acerca de HTML:
+
+- ¿Cuáles son las dos etiquetas principales que componen la etiqueta html? R/ las orincipales etiquetas son <head> y <body>
+- ¿Con qué etiqueta le puedo agregar un título a la pestaña de una página y dentro de qué etiqueta va? R/ El título de la pestaña se agrega con la etiqueta <Tittle> que escribimos dentro del <head>
+- ¿Qué es la indentación en el código y para qué se usa? R/ la indentación hace parte de las buenas prácticas de programación, consiste en escribir las líneas de código mas hacia la derecha, cuando son parte de una función o pertenecen a otra etiqueta. Esto se realiza con la tecla tab 
+- ¿Qué etiqueta se usa para agregar estilos a mi página y qué lenguaje se utiliza dentro de esa etiqueta? R/ La etiqueta utilizada es <style> se escribe dentro de la etiqueta <head> y el lenguaje utilizado dentro de esta es CSS  
+- ¿Qué atributo se utiliza para indicar que se quiere agregar estilos dentro del mismo documento HTML? R/ El atributo ultilizado es style. ejem: <p style= "color: green"> 
+- ¿Qué etiqueta se usa para agregar código Javascript a mi página y donde debe ser ubicado? R/ se utiliza la etiqueta <script> y debe ser escrito dentro de <body>
