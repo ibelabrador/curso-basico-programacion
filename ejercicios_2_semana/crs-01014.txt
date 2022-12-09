@@ -6,6 +6,6 @@ Responder las siguiente preguntas:
 ¿Cómo se representa un string? R/ Se representa utilizando comillas dobles. ejemplo: "el loquero"
 ¿Cómo se declara una variable? R/Se debe poner el nombre de la variable, el operador igual = y después el valor que se le asignará a la variable. ejm : var x = 564
 En la declaración de una variable ¿qué lado del operador de asignación se ejecuta primero? R/ se ejecuta primero el lado derecho al lado del igual
-Si se suma un número y un string ¿qué tipo de variable resulta? R/ Da resultado una variable undefined, ya que no es posible realizar una suma entre un número y un objeto
-¿Qué es una concatenación y cómo se puede hacer? R/ Es cando se añade una cadena al final de otra utilizando el operador +
+Si se suma un número y un string ¿qué tipo de variable resulta? R/ Da resultado una variable string, ya que no es posible realizar una suma entre un número y un objeto, este arroja la unión del número y el texto.
+¿Qué es una concatenación y cómo se puede hacer? R/ Es cuando se añade una cadena al final de otra utilizando el operador +
 
